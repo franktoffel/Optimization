@@ -13,37 +13,37 @@ param:  F:                                                  c    :=
   "Southern Style Buttermilk Crispy Chicken Sandwichx"      2.00
   "Filet-O-Fishx"                                           4.79
   "McRibx"                                                  3.79
-  "Premium McWrap Chicken & Bacon (Crispy)x"                2.99
-  "Premium McWrap Chicken & Bacon (Grilled)x"               3.99
-  "Premium McWrap Chicken & Ranch (Crispy)x"                3.99               
-  "Premium McWrap Chicken & Ranch (Grilled)x"               3.99
-  "Premium McWrap Chicken & Sweet Chili (Crispy)x"          3.99
-  "Premium McWrap Chicken & Sweet Chili (Grilled)x"         3.99
+  "Premium McWrapx Chicken & Bacon (Crispy)"                2.99
+  "Premium McWrapx Chicken & Bacon (Grilled)"               3.99
+  "Premium McWrapx Chicken & Ranch (Crispy)"                3.99               
+  "Premium McWrapx Chicken & Ranch (Grilled)"               3.99
+  "Premium McWrapx Chicken & Sweet Chili (Crispy)"          3.99
+  "Premium McWrapx Chicken & Sweet Chili (Grilled)"         3.99
   "Big Macx"                                                3.69   
-  "Quarter Pounder with Cheesex"                            3.69
-  "Double Quarter Pounder with Cheesex"                     1.29  
-  "Hamburguerx"                                             1.29
-  "Cheeseburgerx"                                           1.00
-  "BBQ Ranch Burgerx"                                       1.29
-  "Grilled Onion Cheddarx"                                  1.00
+  "Quarter Pounderx with Cheese"                            3.69
+  "Double Quarter Pounderx with Cheese"                     1.29  
+  "Hamburguer"                                              1.29
+  "Cheeseburger"                                            1.00
+  "BBQ Ranch Burger"                                        1.29
+  "Grilled Onion Cheddar"                                   1.00
   "Double Cheeseburgerx"                                    2.00 
   "McDoublex"                                               2.00
   "Bacon McDoublex"                                         1.99
   "Daily Doublex"                                           1.59
-  "Ranch Snack Wrap (Crispy)x"                              1.59
-  "Ranch Snack Wrap (Grilled)x"                             1.59
+  "Ranch Snack Wrapx (Crispy)"                              1.59
+  "Ranch Snack Wrapx (Grilled)"                             1.59
   "Mac Snack Wrapx"                                         2.00
   "Jalapenio Doublex"                                       3.89
-  "Premium Crispy Chicken Deluxe Sandwichx"                 3.99
-  "Quarter Pounder Deluxex"                                 4.39
-  "Artisan Grilled Chicken Sandwichx"                       4.39
-  "Buttermilk Crispy Chicken Sandwichx"                     4.19
-  "Premium Asian Sald with Crispy Chickenx"                 4.59
-  "Premium Asian Sald with Grilled Chickenx"                4.29
+  "Premiumx Crispy Chicken Deluxe Sandwich"                 3.99
+  "Quarterx Pounder Deluxe"                                 4.39
+  "Artisanx Grilled Chicken Sandwich"                       4.39
+  "Buttermilkx Crispy Chicken Sandwich"                     4.19
+  "Premiumx Asian Sald with Crispy Chicken"                 4.59
+  "Premiumx Asian Sald with Grilled Chicken"                4.29
   "Bacon Cheddar McChickenx"                                4.59
   "Chicken McNuggetsx"                                      1.69
   "Ranch Snack Wrapx"                                       1.39
-  "Small French Friesx"                                     1.39
+  "Small French Fries"                                      1.39
   "Premium Bacon Ranch Salad with Crispy Chickenx"          4.59
   "Baked Mozzarella Sticksx"                                1.19   ;
  
@@ -110,10 +110,10 @@ param a:
   "Daily Doublex"                                          460   210   23   85    1120  34   2   7    28   6    10   20  20
   "Ranch Snack Wrap (Crispy)x"                             440   210   24   75    770   34   2   7    22   8    6    20  20
   "Ranch Snack Wrap (Grilled)x"                            360   180   20   40    810   32   1   3    15   2    0    10  10 
-  "Mac Snack Wrapx"                                        290   120   13   55    820   25   1   2    19   2    2    15  10
+  "Macx Snack Wrap"                                        290   120   13   55    820   25   1   2    19   2    2    15  10
   "Jalapenio Doublex"                                      330   170   19   45    670   26   1   3    14   2    0    8   15
   "Premium Crispy Chicken Deluxe Sandwichx"                440   210   24   75    990   35   2   6    23   6    8    20  20
-  "Quarter Pounder Deluxex"                                530   200   22   45    1000  59   3   13   25   6    10   20  15
+  "Quarter Pounderx Deluxe"                                530   200   22   45    1000  59   3   13   25   6    10   20  15
   "Artisan Grilled Chicken Sandwichx"                      600   300   33   105   1200  44   3   11   31   15   10   30  25
   "Buttermilk Crispy Chicken Sandwichx"                    360   50    6    75    960   43   3   10   33   4    15   25  15
   "Premium Asian Sald with Crispy Chickenx"                610   230   26   125   1750  50   3   14   45   8    30   35  15
